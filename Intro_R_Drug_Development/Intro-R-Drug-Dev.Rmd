@@ -96,7 +96,7 @@ a {
 
 ## Workshop Goals - Workshop has 2 Parts
 
-### Part 1-7 - You will learn:
+### Part 1-2 - You will learn:
 - Setup
 - An Overview of R Markdown
 
